@@ -1,4 +1,4 @@
-### Hi there 👋🏾 I´m Andrea. I'm a Software Engineer 👩🏾‍💻 Welcome to my gh page!
+# Hi there 👋🏾 I´m Andrea. I'm a Software Engineer 👩🏾‍💻 Welcome to my gh page!
 ## 🔭 I’m currently working on C# and Visual Basic development
 ## 🌱 I’m currently learning Vue, React and NodeJs
 ## 💬 Ask me about: software architecture and Web development
