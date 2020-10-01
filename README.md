@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋🏾 I´m Andrea. I'm a Software Engineer 👩🏾‍💻 Welcome to my gh page!
+## 🔭 I’m currently working on C# and Visual Basic development
+## 🌱 I’m currently learning Vue, React and NodeJs
+## 💬 Ask me about: software architecture and Web development
+## ⚡ Fun fact: I love to read romantic ❤️ and fiction novels 📖 and family travel 👪✈️ I have a podcast where I tell stories 🔉 and a Youtube Channel with tutorials 📷
 
 <!--
 **andrea2811/andrea2811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
