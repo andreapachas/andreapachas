@@ -1,10 +1,13 @@
 # Hi there 👋🏾 I´m Andrea. 
 ## I'm a Software Engineer 👩🏾‍💻 Welcome to my gh page!
-_🔭 I’m currently working on C# and Visual Basic development
-_🌱 I’m currently learning Vue, React and NodeJs
-_💬 Ask me about: software architecture and Web development
-_⚡ Fun fact: I love to read romantic ❤️ and fiction novels 📖 and family travel 👪✈️ I have a podcast where I tell stories 🔉 and a Youtube Channel with tutorials 📷
-
+🔭 I’m currently working on C# and Visual Basic development <br>
+🌱 I’m currently learning Vue, React and NodeJs <br>
+💬 *Ask me about*: software architecture and Web development <br>
+⚡ *Fun fact*: I love to read romantic ❤️ and fiction novels 📖 and family travel 👪✈️ <br>
+I have a [Podcast](https://open.spotify.com/show/42P5DCT1GTjPYxADH7IrUl?si=LnSRMphTRmm4jOHSq8Vzaw) where I tell stories 🔉 and a [Youtube Channel](https://www.youtube.com/channel/UCmNx2_ZYPy-ubCch3xeRtmg) with tutorials 📷
+📫 How to reach me: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](andrea.pachas@gmail.com)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/andrea-pachas/)
 <!--
 **andrea2811/andrea2811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
