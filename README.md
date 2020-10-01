@@ -1,5 +1,5 @@
 # Hi there 👋🏾 I´m Andrea. 
-I'm a Software Engineer 👩🏾‍💻 Welcome to my gh page!
+*I'm a Software Engineer 👩🏾‍💻 Welcome to my gh page!*
 
 🔭 I’m currently working on C# and Visual Basic development
 
@@ -11,7 +11,7 @@ I'm a Software Engineer 👩🏾‍💻 Welcome to my gh page!
 
 I have a [Podcast](https://open.spotify.com/show/42P5DCT1GTjPYxADH7IrUl) where I tell stories 🔉 and a [Youtube Channel](https://www.youtube.com/channel/UCmNx2_ZYPy-ubCch3xeRtmg) with tutorials 📷
 
-📫 How to reach me:
+## 📫 How to reach me:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](andrea.pachas@gmail.com)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/andrea-pachas/)
