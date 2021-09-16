@@ -7,7 +7,7 @@
 
 💬 *Ask me about*: software architecture and Web development 
 
-⚡ *Fun fact*: I love to read romantic ❤️ and fiction novels 📖 and family travel 👪✈️ 
+⚡ *Fun fact*: I love to read romantic ❤️ and fiction novels 📖 and travel with my family 👪✈️ 
 
 I have a [Podcast](https://open.spotify.com/show/42P5DCT1GTjPYxADH7IrUl) where I tell stories 🔉 and a [Youtube Channel](https://www.youtube.com/channel/UCmNx2_ZYPy-ubCch3xeRtmg) with tutorials 📷
 
